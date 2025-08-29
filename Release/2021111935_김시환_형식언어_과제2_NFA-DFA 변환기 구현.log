@@ -1,0 +1,63 @@
+﻿  ND_Converter2.cpp
+C:\Users\SAMSUNG\OneDrive\바탕 화면\3-1 수업\형식언어\형언 과제\2차 과제\소스코드\2021111935_김시환_형식언어_과제2_NFA-DFA 변환기 구현\ND_Converter2.cpp(110,23): error C2429: 언어 기능 '구조적 바인딩'에 컴파일러 플래그 '/std:c++17'이(가) 필요합니다.
+C:\Users\SAMSUNG\OneDrive\바탕 화면\3-1 수업\형식언어\형언 과제\2차 과제\소스코드\2021111935_김시환_형식언어_과제2_NFA-DFA 변환기 구현\ND_Converter2.cpp(112,30): error C2672: 'begin': 일치하는 오버로드된 함수가 없습니다.
+C:\Users\SAMSUNG\OneDrive\바탕 화면\3-1 수업\형식언어\형언 과제\2차 과제\소스코드\2021111935_김시환_형식언어_과제2_NFA-DFA 변환기 구현\ND_Converter2.cpp(112,35): error C2893: 함수 템플릿 'unknown-type std::begin(_Container &)'을(를) 특수화하지 못했습니다.
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\include\xutility(1844): message : 'std::begin' 선언을 참조하십시오.
+C:\Users\SAMSUNG\OneDrive\바탕 화면\3-1 수업\형식언어\형언 과제\2차 과제\소스코드\2021111935_김시환_형식언어_과제2_NFA-DFA 변환기 구현\ND_Converter2.cpp(112,35): message : 다음 템플릿 인수 사용:
+C:\Users\SAMSUNG\OneDrive\바탕 화면\3-1 수업\형식언어\형언 과제\2차 과제\소스코드\2021111935_김시환_형식언어_과제2_NFA-DFA 변환기 구현\ND_Converter2.cpp(112,35): message : '_Container=unknown-type'
+C:\Users\SAMSUNG\OneDrive\바탕 화면\3-1 수업\형식언어\형언 과제\2차 과제\소스코드\2021111935_김시환_형식언어_과제2_NFA-DFA 변환기 구현\ND_Converter2.cpp(112,35): error C2784: 'const _Elem *std::begin(std::initializer_list<_Elem>) noexcept': 'std::initializer_list<_Elem>'의 템플릿 인수를 'unknown-type'에서 추론할 수 없습니다.
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\include\initializer_list(55): message : 'std::begin' 선언을 참조하십시오.
+C:\Users\SAMSUNG\OneDrive\바탕 화면\3-1 수업\형식언어\형언 과제\2차 과제\소스코드\2021111935_김시환_형식언어_과제2_NFA-DFA 변환기 구현\ND_Converter2.cpp(112,30): error C2672: 'end': 일치하는 오버로드된 함수가 없습니다.
+C:\Users\SAMSUNG\OneDrive\바탕 화면\3-1 수업\형식언어\형언 과제\2차 과제\소스코드\2021111935_김시환_형식언어_과제2_NFA-DFA 변환기 구현\ND_Converter2.cpp(112,35): error C2893: 함수 템플릿 'unknown-type std::end(_Container &)'을(를) 특수화하지 못했습니다.
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\include\xutility(1854): message : 'std::end' 선언을 참조하십시오.
+C:\Users\SAMSUNG\OneDrive\바탕 화면\3-1 수업\형식언어\형언 과제\2차 과제\소스코드\2021111935_김시환_형식언어_과제2_NFA-DFA 변환기 구현\ND_Converter2.cpp(112,35): message : 다음 템플릿 인수 사용:
+C:\Users\SAMSUNG\OneDrive\바탕 화면\3-1 수업\형식언어\형언 과제\2차 과제\소스코드\2021111935_김시환_형식언어_과제2_NFA-DFA 변환기 구현\ND_Converter2.cpp(112,35): message : '_Container=unknown-type'
+C:\Users\SAMSUNG\OneDrive\바탕 화면\3-1 수업\형식언어\형언 과제\2차 과제\소스코드\2021111935_김시환_형식언어_과제2_NFA-DFA 변환기 구현\ND_Converter2.cpp(112,35): error C2784: 'const _Elem *std::end(std::initializer_list<_Elem>) noexcept': 'std::initializer_list<_Elem>'의 템플릿 인수를 'unknown-type'에서 추론할 수 없습니다.
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\include\initializer_list(60): message : 'std::end' 선언을 참조하십시오.
+C:\Users\SAMSUNG\OneDrive\바탕 화면\3-1 수업\형식언어\형언 과제\2차 과제\소스코드\2021111935_김시환_형식언어_과제2_NFA-DFA 변환기 구현\ND_Converter2.cpp(112,35): error C3536: '<begin>$L3': 초기화되기 전에 사용할 수 없습니다.
+C:\Users\SAMSUNG\OneDrive\바탕 화면\3-1 수업\형식언어\형언 과제\2차 과제\소스코드\2021111935_김시환_형식언어_과제2_NFA-DFA 변환기 구현\ND_Converter2.cpp(112,35): error C3536: '<end>$L3': 초기화되기 전에 사용할 수 없습니다.
+C:\Users\SAMSUNG\OneDrive\바탕 화면\3-1 수업\형식언어\형언 과제\2차 과제\소스코드\2021111935_김시환_형식언어_과제2_NFA-DFA 변환기 구현\ND_Converter2.cpp(112,33): error C2100: 간접 참조가 잘못되었습니다.
+C:\Users\SAMSUNG\OneDrive\바탕 화면\3-1 수업\형식언어\형언 과제\2차 과제\소스코드\2021111935_김시환_형식언어_과제2_NFA-DFA 변환기 구현\ND_Converter2.cpp(183,23): error C2429: 언어 기능 '구조적 바인딩'에 컴파일러 플래그 '/std:c++17'이(가) 필요합니다.
+C:\Users\SAMSUNG\OneDrive\바탕 화면\3-1 수업\형식언어\형언 과제\2차 과제\소스코드\2021111935_김시환_형식언어_과제2_NFA-DFA 변환기 구현\ND_Converter2.cpp(184,30): error C2672: 'begin': 일치하는 오버로드된 함수가 없습니다.
+C:\Users\SAMSUNG\OneDrive\바탕 화면\3-1 수업\형식언어\형언 과제\2차 과제\소스코드\2021111935_김시환_형식언어_과제2_NFA-DFA 변환기 구현\ND_Converter2.cpp(184,41): error C2893: 함수 템플릿 'unknown-type std::begin(_Container &)'을(를) 특수화하지 못했습니다.
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\include\xutility(1844): message : 'std::begin' 선언을 참조하십시오.
+C:\Users\SAMSUNG\OneDrive\바탕 화면\3-1 수업\형식언어\형언 과제\2차 과제\소스코드\2021111935_김시환_형식언어_과제2_NFA-DFA 변환기 구현\ND_Converter2.cpp(184,41): message : 다음 템플릿 인수 사용:
+C:\Users\SAMSUNG\OneDrive\바탕 화면\3-1 수업\형식언어\형언 과제\2차 과제\소스코드\2021111935_김시환_형식언어_과제2_NFA-DFA 변환기 구현\ND_Converter2.cpp(184,41): message : '_Container=unknown-type'
+C:\Users\SAMSUNG\OneDrive\바탕 화면\3-1 수업\형식언어\형언 과제\2차 과제\소스코드\2021111935_김시환_형식언어_과제2_NFA-DFA 변환기 구현\ND_Converter2.cpp(184,41): error C2784: 'const _Elem *std::begin(std::initializer_list<_Elem>) noexcept': 'std::initializer_list<_Elem>'의 템플릿 인수를 'unknown-type'에서 추론할 수 없습니다.
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\include\initializer_list(55): message : 'std::begin' 선언을 참조하십시오.
+C:\Users\SAMSUNG\OneDrive\바탕 화면\3-1 수업\형식언어\형언 과제\2차 과제\소스코드\2021111935_김시환_형식언어_과제2_NFA-DFA 변환기 구현\ND_Converter2.cpp(184,30): error C2672: 'end': 일치하는 오버로드된 함수가 없습니다.
+C:\Users\SAMSUNG\OneDrive\바탕 화면\3-1 수업\형식언어\형언 과제\2차 과제\소스코드\2021111935_김시환_형식언어_과제2_NFA-DFA 변환기 구현\ND_Converter2.cpp(184,41): error C2893: 함수 템플릿 'unknown-type std::end(_Container &)'을(를) 특수화하지 못했습니다.
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\include\xutility(1854): message : 'std::end' 선언을 참조하십시오.
+C:\Users\SAMSUNG\OneDrive\바탕 화면\3-1 수업\형식언어\형언 과제\2차 과제\소스코드\2021111935_김시환_형식언어_과제2_NFA-DFA 변환기 구현\ND_Converter2.cpp(184,41): message : 다음 템플릿 인수 사용:
+C:\Users\SAMSUNG\OneDrive\바탕 화면\3-1 수업\형식언어\형언 과제\2차 과제\소스코드\2021111935_김시환_형식언어_과제2_NFA-DFA 변환기 구현\ND_Converter2.cpp(184,41): message : '_Container=unknown-type'
+C:\Users\SAMSUNG\OneDrive\바탕 화면\3-1 수업\형식언어\형언 과제\2차 과제\소스코드\2021111935_김시환_형식언어_과제2_NFA-DFA 변환기 구현\ND_Converter2.cpp(184,41): error C2784: 'const _Elem *std::end(std::initializer_list<_Elem>) noexcept': 'std::initializer_list<_Elem>'의 템플릿 인수를 'unknown-type'에서 추론할 수 없습니다.
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\include\initializer_list(60): message : 'std::end' 선언을 참조하십시오.
+C:\Users\SAMSUNG\OneDrive\바탕 화면\3-1 수업\형식언어\형언 과제\2차 과제\소스코드\2021111935_김시환_형식언어_과제2_NFA-DFA 변환기 구현\ND_Converter2.cpp(184,41): error C3536: '<begin>$L3': 초기화되기 전에 사용할 수 없습니다.
+C:\Users\SAMSUNG\OneDrive\바탕 화면\3-1 수업\형식언어\형언 과제\2차 과제\소스코드\2021111935_김시환_형식언어_과제2_NFA-DFA 변환기 구현\ND_Converter2.cpp(184,41): error C3536: '<end>$L3': 초기화되기 전에 사용할 수 없습니다.
+C:\Users\SAMSUNG\OneDrive\바탕 화면\3-1 수업\형식언어\형언 과제\2차 과제\소스코드\2021111935_김시환_형식언어_과제2_NFA-DFA 변환기 구현\ND_Converter2.cpp(184,39): error C2100: 간접 참조가 잘못되었습니다.
+C:\Users\SAMSUNG\OneDrive\바탕 화면\3-1 수업\형식언어\형언 과제\2차 과제\소스코드\2021111935_김시환_형식언어_과제2_NFA-DFA 변환기 구현\ND_Converter2.cpp(185,16): error C2664: 'unsigned int std::_Tree<std::_Tset_traits<_Kty,_Pr,_Alloc,false>>::count(const std::basic_string<char,std::char_traits<char>,std::allocator<char>> &) const': 인수 1을(를) 'const int'에서 'const std::basic_string<char,std::char_traits<char>,std::allocator<char>> &'(으)로 변환할 수 없습니다.
+          with
+          [
+              _Kty=State,
+              _Pr=std::less<State>,
+              _Alloc=std::allocator<State>
+          ]
+C:\Users\SAMSUNG\OneDrive\바탕 화면\3-1 수업\형식언어\형언 과제\2차 과제\소스코드\2021111935_김시환_형식언어_과제2_NFA-DFA 변환기 구현\ND_Converter2.cpp(185,16): message : 원인: 'const int'에서 'const std::basic_string<char,std::char_traits<char>,std::allocator<char>>'(으)로 변환할 수 없습니다.
+C:\Users\SAMSUNG\OneDrive\바탕 화면\3-1 수업\형식언어\형언 과제\2차 과제\소스코드\2021111935_김시환_형식언어_과제2_NFA-DFA 변환기 구현\ND_Converter2.cpp(185,16): message : 소스 형식을 가져올 수 있는 생성자가 없거나 생성자 오버로드 확인이 모호합니다.
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\include\xtree(1391,26): message : 'std::_Tree<std::_Tset_traits<_Kty,_Pr,_Alloc,false>>::count' 선언을 참조하십시오.
+          with
+          [
+              _Kty=State,
+              _Pr=std::less<State>,
+              _Alloc=std::allocator<State>
+          ]
+  NFA-DFA_Converter.cpp
+C:\Users\SAMSUNG\OneDrive\바탕 화면\3-1 수업\형식언어\형언 과제\2차 과제\소스코드\2021111935_김시환_형식언어_과제2_NFA-DFA 변환기 구현\NFA-DFA_Converter.cpp(171,23): error C2429: 언어 기능 '구조적 바인딩'에 컴파일러 플래그 '/std:c++17'이(가) 필요합니다.
+C:\Users\SAMSUNG\OneDrive\바탕 화면\3-1 수업\형식언어\형언 과제\2차 과제\소스코드\2021111935_김시환_형식언어_과제2_NFA-DFA 변환기 구현\NFA-DFA_Converter.cpp(173,42): error C3536: 'it': 초기화되기 전에 사용할 수 없습니다.
+C:\Users\SAMSUNG\OneDrive\바탕 화면\3-1 수업\형식언어\형언 과제\2차 과제\소스코드\2021111935_김시환_형식언어_과제2_NFA-DFA 변환기 구현\NFA-DFA_Converter.cpp(174,21): error C2100: 간접 참조가 잘못되었습니다.
+C:\Users\SAMSUNG\OneDrive\바탕 화면\3-1 수업\형식언어\형언 과제\2차 과제\소스코드\2021111935_김시환_형식언어_과제2_NFA-DFA 변환기 구현\NFA-DFA_Converter.cpp(174,18): error C2088: '<<': class에 맞지 않습니다.
+C:\Users\SAMSUNG\OneDrive\바탕 화면\3-1 수업\형식언어\형언 과제\2차 과제\소스코드\2021111935_김시환_형식언어_과제2_NFA-DFA 변환기 구현\NFA-DFA_Converter.cpp(174,29): error C2672: 'std::next': 일치하는 오버로드된 함수가 없습니다.
+C:\Users\SAMSUNG\OneDrive\바탕 화면\3-1 수업\형식언어\형언 과제\2차 과제\소스코드\2021111935_김시환_형식언어_과제2_NFA-DFA 변환기 구현\NFA-DFA_Converter.cpp(174,36): error C2893: 함수 템플릿 '_InIt std::next(_InIt,iterator_traits<_Iter>::difference_type)'을(를) 특수화하지 못했습니다.
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\include\xutility(1545): message : 'std::next' 선언을 참조하십시오.
+C:\Users\SAMSUNG\OneDrive\바탕 화면\3-1 수업\형식언어\형언 과제\2차 과제\소스코드\2021111935_김시환_형식언어_과제2_NFA-DFA 변환기 구현\NFA-DFA_Converter.cpp(174,36): message : 다음 템플릿 인수 사용:
+C:\Users\SAMSUNG\OneDrive\바탕 화면\3-1 수업\형식언어\형언 과제\2차 과제\소스코드\2021111935_김시환_형식언어_과제2_NFA-DFA 변환기 구현\NFA-DFA_Converter.cpp(174,36): message : '_InIt=int'
