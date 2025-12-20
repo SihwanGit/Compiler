@@ -1,0 +1,2 @@
+D:\temp\Compilers-main\MiniC Parser\MiniC_Parser\Debug\MiniC_Parser.exe
+C:\Users\SAMSUNG\OneDrive\바탕 화면\3-2 수업\컴파일러\과제\3차 과제\MiniC_Parser\Debug\MiniC_Parser.exe
