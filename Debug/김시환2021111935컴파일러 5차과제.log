@@ -1,0 +1,4 @@
+﻿  MiniC.c
+C:\Users\SAMSUNG\OneDrive\바탕 화면\3-2 수업\컴파일러\과제\5차 과제\Ucode Translator\김시환2021111935컴파일러 5차과제\MiniC.c(15,10): warning C4067: 전처리기 지시문 다음에 예기치 않은 토큰이 있습니다. 줄 바꿈 문자가 필요합니다.
+C:\Users\SAMSUNG\OneDrive\바탕 화면\3-2 수업\컴파일러\과제\5차 과제\Ucode Translator\김시환2021111935컴파일러 5차과제\MiniC.c(245,13): warning C4101: 'q' :참조되지 않은 지역 변수입니다.
+  김시환2021111935컴파일러 5차과제.vcxproj -> C:\Users\SAMSUNG\OneDrive\바탕 화면\3-2 수업\컴파일러\과제\5차 과제\Ucode Translator\김시환2021111935컴파일러 5차과제\Debug\김시환2021111935컴파일러 5차과제.exe
